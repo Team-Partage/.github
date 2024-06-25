@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/Java-ff4000?style=flat"/><img src="https://img.shields.io/badge/Spring-18d100?style=flat"/><img src="https://img.shields.io/badge/Spring Boot-18d100?style=flat"/><img src="https://img.shields.io/badge/Spring Security-18d100?style=flat"/><img src="https://img.shields.io/badge/MySQL-00b0bd?style=flat"/><img src="https://img.shields.io/badge/Redis-ff0000?style=flat"/><img src="https://img.shields.io/badge/Swagger-15b800?style=flat"/>
 
-##### 예찬[@qwqw0414](https://github.com/qwqw0414), 민욱[@vvxxxxk](https://github.com/vvxxxxk)
+##### 예찬[@qwqw0414](https://github.com/qwqw0414), 병욱[@vvxxxxk](https://github.com/vvxxxxk)
 
 <br/>
 
