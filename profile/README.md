@@ -1,6 +1,8 @@
 # Partage
 
 **동시간 유튜브 시청 + 채팅 플랫폼**
+
+http://partage.kr/
 <br/>
 <br/>
 
